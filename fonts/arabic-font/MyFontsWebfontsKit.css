@@ -1,0 +1,28 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 4034795, 2021-04-04T10:23:22-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Swissra-Regular by Abjad
+ * URL: https://www.myfonts.com/fonts/abjad/swissra/regular/
+ * Copyright: Copyright (c) 2014 by Abjad / Ali Almasri. All rights reserved.
+ * 
+ * 
+ * 
+ * © 2021 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/3d90eb");
+  
+@font-face {
+  font-family: "Swissra-Regular";
+  src: url('webFonts/SwissraRegular/font.woff2') format('woff2'), url('webFonts/SwissraRegular/font.woff') format('woff');
+}
+
